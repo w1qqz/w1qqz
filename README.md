@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**w1qqz/w1qqz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Security Student
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Interested in Cybersecurity
+- Learning every day
+- Building practical projects
+- Always improving my skills
+
+## Tech Stack
+
+- Windows
+- Python
+- C++
+- HTML & CSS
+- Microsoft Office
+
+## Current Focus
+
+- Cybersecurity
+- Git & GitHub
+- Networking
